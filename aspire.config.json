@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "JwtAuthDotnet9.AppHost/JwtAuthDotnet9.AppHost.csproj"
+  }
+}

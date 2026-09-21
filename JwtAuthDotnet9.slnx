@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="JwtAuthDotnet9.AppHost/JwtAuthDotnet9.AppHost.csproj" Id="d6a434f6-5c4d-4b80-9448-866715b54f53" />
+  <Project Path="JwtAuthDotnet9.ServiceDefaults/JwtAuthDotnet9.ServiceDefaults.csproj" />
   <Project Path="JwtAuthDotnet9/JwtAuthDotnet9.csproj" />
 </Solution>
